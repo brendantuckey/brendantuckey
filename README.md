@@ -5,9 +5,13 @@ I'm an aspiring AWS Cloud Engineer currently working as a Web Developer within W
 ## Skills:
 
 **AWS:** VPC, EC2, S3, RDS, EBS, ELB, ASG, ECS, Security Groups, SNS, SSM, CloudTrail, IAM...
+
 **Web Dev:** WordPress, Divi, JavaScript, CSS, JQuery, HTML
+
 **Languages:** Python, JSON, YML
+
 **Automation:** Cloud Formation, CDK, Boto3, Ansible
+
 **Project management:** Jira, Slack, Zoom, MS Teams, SharePoint
 
 
