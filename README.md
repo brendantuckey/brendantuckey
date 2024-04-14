@@ -2,7 +2,8 @@
 
 I'm an aspiring AWS Cloud Engineer currently working as a Web Developer within WordPress / Divi theme. On GitHub I'm currently mostly working on building my own portfolio but I am on the look out for fun projects. I have a lot of experience in solving problems and I love solving problems while collaborating with others, it's a hobby as well as part of my job!
 
-**Skills:**
+## Skills:
+
 **AWS:** VPC, EC2, S3, RDS, EBS, ELB, ASG, ECS, Security Groups, SNS, SSM, CloudTrail, IAM...
 **Web Dev:** WordPress, Divi, JavaScript, CSS, JQuery, HTML
 **Languages:** Python, JSON, YML
